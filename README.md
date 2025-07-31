@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### 🎮 Try My Mini Game!
-[![Play Plane Shooter](https://your-thumbnail.gif)](https://hidro2k2.github.io/plane-shooter)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<tên_người_dùng>&show_icons=true&theme=tokyonight)
+
 
 
 <!---
