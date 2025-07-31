@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### 🎮 Try My Mini Game!
+[![Play Plane Shooter](https://your-thumbnail.gif)](https://hidro2k2.github.io/plane-shooter)
+
 
 <!---
 hidro2k2/hidro2k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
