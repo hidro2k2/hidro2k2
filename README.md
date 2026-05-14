@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duy Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Hidro</h1>
 <h3 align="center">Creative Developer • Open Source Builder • AI Workflow Enthusiast</h3>
 
 <p align="center">
@@ -32,15 +32,6 @@ A lightweight open-source utility for downloading and managing Douyin/TikTok con
 
 🔗 Repo:
 https://github.com/hidro2k2/Douyin-Video-Downloader
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hidro2k2&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidro2k2&layout=compact&theme=tokyonight" height="180em"/>
-</p>
 
 ---
 
